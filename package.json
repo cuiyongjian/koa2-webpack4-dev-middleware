@@ -1,6 +1,6 @@
 {
   "name": "koa2-webpack4-dev-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a koa2 style middleware for webpack4 dev middleware",
   "main": "index.js",
   "scripts": {
